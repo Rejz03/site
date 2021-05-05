@@ -1,0 +1,15 @@
+.nav-link {
+    color: white !important;
+}
+#a{
+    color: white !important;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 10px 30px 10px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 30px 7px; /* Отступы вокруг картинки */
+   }
